@@ -12,11 +12,21 @@
     "@chakra-ui/react": "^1.2.1",
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
+    "date-fns": "^2.19.0",
     "framer-motion": "^3.2.2-rc.1",
+    "gray-matter": "^4.0.2",
+    "mdx-prism": "^0.3.3",
     "next": "10.0.6",
     "next-google-fonts": "^1.2.1",
+    "next-mdx-remote": "^2.1.3",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "reading-time": "^1.3.0",
+    "rehype": "^11.0.0",
+    "remark-autolink-headings": "^6.0.1",
+    "remark-capitalize": "^1.1.0",
+    "remark-code-titles": "^0.1.1",
+    "remark-slug": "^6.0.0"
   },
   "prettier": {
     "arrowParens": "always",
@@ -25,6 +35,7 @@
     "trailingComma": "none"
   },
   "devDependencies": {
+    "@emotion/babel-plugin": "^11.2.0",
     "prettier": "^2.2.1"
   }
 }

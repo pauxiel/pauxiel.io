@@ -7,6 +7,7 @@ import {
 import customTheme from '@/styles/theme';
 import { Global, css } from '@emotion/react';
 
+
 const GlobalStyle = ({ children }) => {
   const { colorMode } = useColorMode();
 
