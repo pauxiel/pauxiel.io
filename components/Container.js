@@ -45,7 +45,7 @@ const Container = ({ children }) => {
         mx="auto"
       >
         <Box>
-          <NextLink href="" passHref>
+          <NextLink href="/" passHref>
             <Button
               as="a"
               variant="ghost"
